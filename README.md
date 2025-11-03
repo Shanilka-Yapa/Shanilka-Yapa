@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/shanilka-t-yapa-12115426b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpPNq%2FLgfQDCEE5DUUg%2F6qg%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
+  <a href="https://www.hackerrank.com/profile/shanilka_yapa" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
 </p>
 
 ---
@@ -20,7 +23,7 @@
 🎓 I’m a **Computer Engineering undergraduate** at the **Faculty of Engineering, University of Ruhuna**.  
 💡 Exploring **AI**, **Machine Learning**, and **Full-Stack Web Development** with a growing love for **UI design**.  
 🧠 I enjoy creating **interactive, problem-solving applications** that blend smart logic with clean interfaces.  
-🔧 Learning something new every day sometimes intentionally, sometimes by breaking my own code 😅  
+🔧 Learning something new every day — sometimes intentionally, sometimes by breaking my own code 😅  
 🌍 Passionate about building technology that makes everyday tasks simpler and smarter.
 
 ---
@@ -59,27 +62,28 @@
 - Learn by **building** (and occasionally breaking things)  
 - Believe that **debugging teaches more than documentation**  
 - Love clean, intuitive **UI designs** that actually make people smile  
-- Blend creativity with logic — because both matter equally  
+- Blend creativity with logic because both matter equally  
 
 ---
 
-### ⚡ GitHub Activity  
+### 🧩 Competitive Programming  
+I love solving algorithmic challenges to keep my logic sharp and my debugging skills sharper 😄  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanilka-Yapa&show_icons=true&theme=tokyonight" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shanilka-Yapa&theme=tokyonight" height="160" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanilka-Yapa&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>
+  <a href="https://www.hackerrank.com/profile/shanilka_yapa" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
 </p>
 
 ---
 
 ### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanilka-Yapa&theme=react-dark&bg_color=20232a&hide_border=true" width="90%" alt="activity graph"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanilka-Yapa&theme=tokyo-night&hide_border=true&bg_color=00000000&color=70a5fd&line=38bdae&point=70a5fd" alt="Contribution Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanilka-Yapa&theme=react&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -91,4 +95,4 @@
 
 ---
 
-⭐️ *“Currently debugging life — but at least it compiles.”* 😄
+⭐️ *“Currently debugging life but at least it compiles.”* 😄  

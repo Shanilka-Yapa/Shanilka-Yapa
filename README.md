@@ -20,7 +20,7 @@
 🎓 I’m a **Computer Engineering undergraduate** at the **Faculty of Engineering, University of Ruhuna**.  
 💡 Exploring **AI**, **Machine Learning**, and **Full-Stack Web Development** with a growing love for **UI design**.  
 🧠 I enjoy creating **interactive, problem-solving applications** that blend smart logic with clean interfaces.  
-🔧 Learning something new every day sometimes intentionally, sometimes by breaking my own code 😅  
+🔧 Learning something new every day — sometimes intentionally, sometimes by breaking my own code 😅  
 🌍 Passionate about building technology that makes everyday tasks simpler and smarter.
 
 ---
@@ -63,9 +63,15 @@
 
 ---
 
-### 📈 Contribution Graph  
+### ⚡ GitHub Activity  
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/Shanilka-Yapa" alt="Shanilka's GitHub Chart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanilka-Yapa&show_icons=true&theme=tokyonight" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shanilka-Yapa&theme=tokyonight" height="160" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanilka-Yapa&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>
 </p>
 
 ---

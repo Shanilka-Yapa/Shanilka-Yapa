@@ -20,7 +20,7 @@
 🎓 I’m a **Computer Engineering undergraduate** at the **Faculty of Engineering, University of Ruhuna**.  
 💡 Exploring **AI**, **Machine Learning**, and **Full-Stack Web Development** with a growing love for **UI design**.  
 🧠 I enjoy creating **interactive, problem-solving applications** that blend smart logic with clean interfaces.  
-🔧 Learning something new every day — sometimes intentionally, sometimes by breaking my own code 😅  
+🔧 Learning something new every day sometimes intentionally, sometimes by breaking my own code 😅  
 🌍 Passionate about building technology that makes everyday tasks simpler and smarter.
 
 ---
@@ -72,6 +72,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanilka-Yapa&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>
+</p>
+
+---
+
+### 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanilka-Yapa&theme=tokyo-night&hide_border=true&bg_color=00000000&color=70a5fd&line=38bdae&point=70a5fd" alt="Contribution Graph"/>
 </p>
 
 ---

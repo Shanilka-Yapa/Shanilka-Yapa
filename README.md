@@ -18,9 +18,9 @@
 
 ### 🧑‍💻 About Me  
 🎓 I’m a **Computer Engineering undergraduate** at the **Faculty of Engineering, University of Ruhuna**.  
-💡 Exploring **AI**, **Machine Learning**, and **Full-Stack Web Development** — with a growing love for **UI design**.  
+💡 Exploring **AI**, **Machine Learning**, and **Full-Stack Web Development** with a growing love for **UI design**.  
 🧠 I enjoy creating **interactive, problem-solving applications** that blend smart logic with clean interfaces.  
-🔧 Learning something new every day — sometimes intentionally, sometimes by breaking my own code 😅  
+🔧 Learning something new every day sometimes intentionally, sometimes by breaking my own code 😅  
 🌍 Passionate about building technology that makes everyday tasks simpler and smarter.
 
 ---
@@ -33,7 +33,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,csharp,dart" />
 
 #### ⚙️ Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,mysql,mongodb,git,vscode,figma,arduino" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,mysql,mongodb,git,vscode,figma" />
 
 </div>
 

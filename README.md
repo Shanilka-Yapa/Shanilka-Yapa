@@ -1,6 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Shanilka Thulshani Yapa 👋</h1>
-<h3 align="center">Computer Engineering Undergraduate | AI & Full-Stack Web Developer | UI Design Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Shanilka+Thulshani;Computer+Engineering+Undergrad;AI+%26+Full-Stack+Developer;UI+Design+Enthusiast" />
+</h1>
 
 <p align="center">
   <a href="mailto:shanilka.thulshani@gmail.com">
@@ -14,6 +15,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shanilka-Yapa&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me  
@@ -24,6 +29,12 @@
 🌍 Passionate about building technology that makes everyday tasks simpler and smarter.
 
 ---
+
+### 🚧 Currently Working On
+- 🧑‍💻 Interning and gaining real-world software development experience  
+- 🔤 Developing a Character recognition model using AI/ML  
+- 🔭 Enhancing AR-based navigation systems  
+- 🌐 Improving full-stack deployment and DevOps skills  
 
 ### 🧠 Tech Stack (Learning & Exploring)
 
@@ -37,6 +48,10 @@
 
 </div>
 
+---
+### ⏱ Coding Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ### 🚀 Featured Projects  
@@ -77,8 +92,8 @@ I enjoy solving algorithmic challenges to sharpen my logic and problem-solving s
 ### ⚡ GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanilka-Yapa&show_icons=true&theme=tokyonight" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shanilka-Yapa&theme=tokyonight" height="160" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanilka-Yapa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160" alt = "GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shanilka-Yapa&theme=tokyonight&hide_border=true" height="160" alt="Github Streak"/>
 </p>
 
 <p align="center">
@@ -89,12 +104,19 @@ I enjoy solving algorithmic challenges to sharpen my logic and problem-solving s
 
 ### 📈 Contribution Graph  
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shanilka-Yapa&theme=tokyonight" />
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanilka-Yapa&theme=tokyo-night&hide_border=true&bg_color=00000000&color=70a5fd&line=38bdae&point=70a5fd" alt="Contribution Graph"/>
 </p>
 
 ---
 
+### 🧾 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 ### 📫 Get in Touch  
 📧 **shanilka.thulshani@gmail.com**  
 🌐 **[github.com/Shanilka-Yapa](https://github.com/Shanilka-Yapa)**  

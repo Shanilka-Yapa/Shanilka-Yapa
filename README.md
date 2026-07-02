@@ -51,6 +51,17 @@
 ---
 ### ⏱ Coding Activity
 <!--START_SECTION:waka-->
+
+```txt
+From: 24 June 2026 - To: 01 July 2026
+
+JavaScript   1 hr 2 mins           █████████████▓░░░░░░░░░░░   55.29 %
+Dart         23 mins               █████░░░░░░░░░░░░░░░░░░░░   20.56 %
+Prisma       9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+Python       8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+HTML         5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+```
+
 <!--END_SECTION:waka-->
 ---
 

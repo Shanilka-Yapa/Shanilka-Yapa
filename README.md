@@ -41,7 +41,7 @@
 <div align="center">
 
 #### 💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,csharp,dart" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,csharp,dart,go" />
 
 #### ⚙️ Frameworks & Tools
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,mysql,mongodb,git,vscode,figma" />

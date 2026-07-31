@@ -121,8 +121,8 @@ I enjoy solving algorithmic challenges to sharpen my logic and problem-solving s
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Mesit-Rathnayake/Traffic-Fine-System/pull/9) in [Mesit-Rathnayake/Traffic-Fine-System](https://github.com/Mesit-Rathnayake/Traffic-Fine-System)
-2. 🗣 Commented on [#9](https://github.com/Mesit-Rathnayake/Traffic-Fine-System/pull/9#issuecomment-4673555389) in [Mesit-Rathnayake/Traffic-Fine-System](https://github.com/Mesit-Rathnayake/Traffic-Fine-System)
+1. 🎉 Merged PR [#1](https://github.com/Shanilka-Yapa/Acadex/pull/1) in [Shanilka-Yapa/Acadex](https://github.com/Shanilka-Yapa/Acadex)
+2. 💪 Opened PR [#1](https://github.com/Shanilka-Yapa/Acadex/pull/1) in [Shanilka-Yapa/Acadex](https://github.com/Shanilka-Yapa/Acadex)
 3. 💪 Opened PR [#9](https://github.com/Mesit-Rathnayake/Traffic-Fine-System/pull/9) in [Mesit-Rathnayake/Traffic-Fine-System](https://github.com/Mesit-Rathnayake/Traffic-Fine-System)
 <!--END_SECTION:activity-->
 

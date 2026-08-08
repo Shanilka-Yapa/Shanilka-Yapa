@@ -53,7 +53,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
 Dart     36 mins               ████████████▒░░░░░░░░░░░░   49.83 %
 HTML     19 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.86 %

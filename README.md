@@ -122,9 +122,9 @@ I enjoy solving algorithmic challenges to sharpen my logic and problem-solving s
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Shanilka-Yapa/Acadex/pull/1) in [Shanilka-Yapa/Acadex](https://github.com/Shanilka-Yapa/Acadex)
-2. 💪 Opened PR [#1](https://github.com/Shanilka-Yapa/Acadex/pull/1) in [Shanilka-Yapa/Acadex](https://github.com/Shanilka-Yapa/Acadex)
-3. 💪 Opened PR [#9](https://github.com/Mesit-Rathnayake/Traffic-Fine-System/pull/9) in [Mesit-Rathnayake/Traffic-Fine-System](https://github.com/Mesit-Rathnayake/Traffic-Fine-System)
+1. 🎉 Merged PR [#3](https://github.com/Shanilka-Yapa/Acadex/pull/3) in [Shanilka-Yapa/Acadex](https://github.com/Shanilka-Yapa/Acadex)
+2. 💪 Opened PR [#3](https://github.com/Shanilka-Yapa/Acadex/pull/3) in [Shanilka-Yapa/Acadex](https://github.com/Shanilka-Yapa/Acadex)
+3. 🎉 Merged PR [#2](https://github.com/Shanilka-Yapa/Acadex/pull/2) in [Shanilka-Yapa/Acadex](https://github.com/Shanilka-Yapa/Acadex)
 <!--END_SECTION:activity-->
 
 ---

@@ -71,7 +71,7 @@ Dart                       1 min                 ░░░░░░░░░░�
 > A collaborative project focusing on automating library operations using DevOps principles for smoother deployment and monitoring.  
 **Stack:** React, Node.js, MySQL, Docker  
 
-#### 📱 **Acadex – Academic Management System**
+#### 📱 [Acadex – Academic Management System](https://github.com/Shanilka-Yapa/Acadex.git)
 > A cross-platform academic management application designed to help students manage timetables, attendance, GPA calculations, and academic information in one place.
 > **Stack:** Flutter, Dart, Hive CE
  

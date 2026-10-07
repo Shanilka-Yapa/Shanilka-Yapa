@@ -98,6 +98,12 @@ I enjoy solving algorithmic challenges to sharpen my logic and problem-solving s
   </a>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/Toothless2002/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+</p>
+
 ---
 
 ### ⚡ GitHub Activity  

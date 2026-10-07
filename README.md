@@ -71,10 +71,10 @@ Dart                       1 min                 ░░░░░░░░░░�
 > A collaborative project focusing on automating library operations using DevOps principles for smoother deployment and monitoring.  
 **Stack:** React, Node.js, MySQL, Docker  
 
-#### 📱 **FoundIt – Lost & Found App for University Students**  
-> A mobile application that helps students report, find, and return lost items on campus with real-time notifications.  
-**Stack:** Flutter, Firebase  
-
+#### 📱 **Acadex – Academic Management System**
+> A cross-platform academic management application designed to help students manage timetables, attendance, GPA calculations, and academic information in one place.
+> **Stack:** Flutter, Dart, Hive CE
+ 
 #### 🧭 **ARWayz – AR Navigation System**  
 > A software project that integrates Augmented Reality to guide students across the university using an interactive map.  
 **Stack:** Unity, ARCore, Firebase  

@@ -53,12 +53,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2026 - To: 10 October 2026
+From: 04 October 2026 - To: 11 October 2026
 
-Java                       2 hrs 59 mins         ███████████████████████▒░   93.75 %
-DIGITAL Command Language   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Markdown                   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Dart                       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Markdown   4 mins                ████████████████████▒░░░░   81.04 %
+Dart       1 min                 ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
 ```
 
 <!--END_SECTION:waka-->

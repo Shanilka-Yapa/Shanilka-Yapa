@@ -131,8 +131,8 @@ I enjoy solving algorithmic challenges to sharpen my logic and problem-solving s
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Shanilka-Yapa/Acadex/pull/3) in [Shanilka-Yapa/Acadex](https://github.com/Shanilka-Yapa/Acadex)
-2. 💪 Opened PR [#3](https://github.com/Shanilka-Yapa/Acadex/pull/3) in [Shanilka-Yapa/Acadex](https://github.com/Shanilka-Yapa/Acadex)
+1. 🎉 Merged PR [#17](https://github.com/Shanilka-Yapa/AR-campus-navigation-system---ARWayz/pull/17) in [Shanilka-Yapa/AR-campus-navigation-system---ARWayz](https://github.com/Shanilka-Yapa/AR-campus-navigation-system---ARWayz)
+2. 💪 Opened PR [#17](https://github.com/Shanilka-Yapa/AR-campus-navigation-system---ARWayz/pull/17) in [Shanilka-Yapa/AR-campus-navigation-system---ARWayz](https://github.com/Shanilka-Yapa/AR-campus-navigation-system---ARWayz)
 3. 🎉 Merged PR [#2](https://github.com/Shanilka-Yapa/Acadex/pull/2) in [Shanilka-Yapa/Acadex](https://github.com/Shanilka-Yapa/Acadex)
 <!--END_SECTION:activity-->
 

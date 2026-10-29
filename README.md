@@ -131,9 +131,9 @@ I enjoy solving algorithmic challenges to sharpen my logic and problem-solving s
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Shanilka-Yapa/My-Portifolio/pull/1) in [Shanilka-Yapa/My-Portifolio](https://github.com/Shanilka-Yapa/My-Portifolio)
-2. 💪 Opened PR [#1](https://github.com/Shanilka-Yapa/My-Portifolio/pull/1) in [Shanilka-Yapa/My-Portifolio](https://github.com/Shanilka-Yapa/My-Portifolio)
-3. 🎉 Merged PR [#19](https://github.com/Shanilka-Yapa/AR-campus-navigation-system---ARWayz/pull/19) in [Shanilka-Yapa/AR-campus-navigation-system---ARWayz](https://github.com/Shanilka-Yapa/AR-campus-navigation-system---ARWayz)
+1. 🎉 Merged PR [#25](https://github.com/Shanilka-Yapa/AR-campus-navigation-system---ARWayz/pull/25) in [Shanilka-Yapa/AR-campus-navigation-system---ARWayz](https://github.com/Shanilka-Yapa/AR-campus-navigation-system---ARWayz)
+2. 💪 Opened PR [#25](https://github.com/Shanilka-Yapa/AR-campus-navigation-system---ARWayz/pull/25) in [Shanilka-Yapa/AR-campus-navigation-system---ARWayz](https://github.com/Shanilka-Yapa/AR-campus-navigation-system---ARWayz)
+3. ❌ Closed PR [#24](https://github.com/Shanilka-Yapa/AR-campus-navigation-system---ARWayz/pull/24) in [Shanilka-Yapa/AR-campus-navigation-system---ARWayz](https://github.com/Shanilka-Yapa/AR-campus-navigation-system---ARWayz)
 <!--END_SECTION:activity-->
 
 ---

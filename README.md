@@ -15,9 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shanilka-Yapa&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
@@ -48,21 +45,6 @@
 
 </div>
 
----
-### ⏱ Coding Activity
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-Dart         1 hr 50 mins          █████████████████▓░░░░░░░   70.01 %
-Markdown     19 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-Git Config   14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-JavaScript   6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-CSS          3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-```
-
-<!--END_SECTION:waka-->
 ---
 
 ### 🚀 Featured Projects  
